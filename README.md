@@ -1,3 +1,30 @@
+# APP IMDB
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+## Sobre o Projeto
+
+O **App-IMDB** é um exemplo bastante simples de uso da tecnologia REACT para consumir a api disponibilizada pelo **Internet Movies Database (IMDB)**, para a pesquisa de filmes e programas de televisão.
+
+## Funcionalidades
+
+- **Buscador de Filmes:**
+  - Permite efetuar a pesquisa de um Filme/Série
+  - Exibe os seguintes dados da obra audiovisual: FILME/SERIE, ESTREIA, SINOPSE, NOTA METACRITIC, ATORES
+
+## Licença
+
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+
+---
+
+Feito por Rodney Victor (https://github.com/rodneyvictorsoares)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
